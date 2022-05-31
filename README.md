@@ -21,7 +21,7 @@
 
 <a href="https://www.codewars.com/users/Skave-a"><img src="https://www.codewars.com/users/Skave-a/badges/large" alt="Codewars"/></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalyaPolyakova&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skave-a&theme=tokyonight&layout=compact)
 
 <h3 align="left">Contact with me:</h3>
 
