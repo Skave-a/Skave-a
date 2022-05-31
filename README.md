@@ -19,7 +19,7 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalyaPolyakova&theme=tokyonight&show_icons=true) -->
 
-<a href="https://www.codewars.com/users/NatalyaPolyakova"><img src="https://www.codewars.com/users/NatalyaPolyakova/badges/large" alt="Codewars"/></a>
+<a href="https://www.codewars.com/users/Skave-a"><img src="https://www.codewars.com/users/Skave-a/badges/large" alt="Codewars"/></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalyaPolyakova&theme=tokyonight&layout=compact)
 
