@@ -28,4 +28,4 @@
 <!-- [![#Linkedin](https://img.shields.io/badge/linkedin-cornflowerblue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elena-ilieva-39a1891ba/) -->
 [![#instagram](https://img.shields.io/badge/Instagram-cornflowerblue?style=flat&logo=instagram)](https://www.instagram.com/polyakova__natalya/?hl=ru)
 [![#Telegram](https://img.shields.io/badge/Telegram-cornflowerblue?style=flat&logo=telegram)](https://t.me/polyakova_nvla)
-[![#e-mail](https://img.shields.io/badge/Polyakova_Natalya-cornflowerblue?style=plastic&logo=gmail&link=mailto:NatalyaPolyakova@gmail.com)](mailto:arrowtata@gmail.com)
+[![#e-mail](https://img.shields.io/badge/mail_me-cornflowerblue?style=plastic&logo=gmail&link=mailto:NatalyaPolyakova@gmail.com)](mailto:arrowtata@gmail.com)
