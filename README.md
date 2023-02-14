@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-NatalyaPolyakova)
 
 <h1 align="left">Hi there👋</h1>
-<h3 align="left">A junior frontend developer</h3>
+<h3 align="left">A frontend developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
