@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=your-github-NatalyaPolyakova)
-
 <h1 align="left">Hi there👋</h1>
 <h3 align="left">A frontend developer</h3>
 
