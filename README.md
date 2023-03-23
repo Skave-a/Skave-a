@@ -15,7 +15,11 @@ https://skave-a.github.io/rsschool-cv/
 
 <a href="https://www.codewars.com/users/rsschool_2f8a8245c209aab3"><img src="https://www.codewars.com/users/rsschool_2f8a8245c209aab3/badges/large" alt="Codewars"/></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Skave-a"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=skave-a"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=skave-a&layout=compact"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skave-a&theme=tokyonight)
 
 <!-- [![#Linkedin](https://img.shields.io/badge/linkedin-cornflowerblue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elena-ilieva-39a1891ba/) -->
 [![#instagram](https://img.shields.io/badge/Instagram-cornflowerblue?style=flat&logo=instagram)](https://www.instagram.com/polyakova__natalya/?hl=ru)
