@@ -16,7 +16,7 @@ https://skave-a.github.io/rsschool-cv/
 <a href="https://www.codewars.com/users/rsschool_2f8a8245c209aab3"><img src="https://www.codewars.com/users/rsschool_2f8a8245c209aab3/badges/large" alt="Codewars"/></a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skave-a&hide_progress=true)](https://github.com/Skave-a/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skave-a&hide_progress=true)](https://github.com/Skave-a/github-readme-stats)
 <h3 align="left">Contact with me:</h3>
 
 <!-- [![#Linkedin](https://img.shields.io/badge/linkedin-cornflowerblue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elena-ilieva-39a1891ba/) -->
