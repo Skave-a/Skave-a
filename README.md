@@ -13,7 +13,7 @@ https://skave-a-cv.netlify.app/
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalyaPolyakova&theme=tokyonight&show_icons=true) -->
 
-<a href="https://www.codewars.com/users/skave-a"><img src="https://www.codewars.com/users/skave-a/badges/large" alt="Codewars"/></a>
+<a href="https://www.codewars.com/users/Skave-a"><img src="https://www.codewars.com/users/Skave-a/badges/large" alt="Codewars"/></a>
 
 <!-- [![#Linkedin](https://img.shields.io/badge/linkedin-cornflowerblue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elena-ilieva-39a1891ba/) -->
 [![#instagram](https://img.shields.io/badge/Instagram-cornflowerblue?style=flat&logo=instagram)](https://www.instagram.com/polyakova__natalya/?hl=ru)
