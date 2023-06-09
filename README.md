@@ -1,5 +1,5 @@
 <h1 align="left">Hi there👋</h1>
-<h3 align="left">A frontend developer</h3> Saint Petersburg
+<h3 align="left">A frontend developer</h3> Saint Petersburg / Tashkent
 
 
 [https://app.rs.school/cv/edit](https://app.rs.school/cv/ad0d334f-50c2-461d-bb9a-26e90e8b2843)
