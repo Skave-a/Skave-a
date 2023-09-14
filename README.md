@@ -7,6 +7,7 @@
 https://skave-a-cv.netlify.app/
 
 
+
 <!-- [![#Linkedin](https://img.shields.io/badge/linkedin-cornflowerblue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elena-ilieva-39a1891ba/) -->
 [![#instagram](https://img.shields.io/badge/Instagram-cornflowerblue?style=flat&logo=instagram)](https://www.instagram.com/polyakova__natalya/?hl=ru)
 [![#Telegram](https://img.shields.io/badge/Telegram-cornflowerblue?style=flat&logo=telegram)](https://t.me/polyakova_nvla)
